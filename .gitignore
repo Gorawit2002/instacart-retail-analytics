@@ -1,0 +1,18 @@
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+*.csv
+
+# Power BI temp files
+*.pbit
+*.tmp
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+ 
+# OS files
+.DS_Store
+Thumbs.d
+
+*.pbix
